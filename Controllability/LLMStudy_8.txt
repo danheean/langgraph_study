@@ -1,0 +1,5 @@
+
+
+LLM4AD(Autonomous Driving, 자율 주행)
+
+CNN - 속도가 빠름, 
