@@ -1,0 +1,168 @@
+EEVE
+** 한글 다섯 문장으로 요약해줘!!
+제럴드는 작은 팀에서 일하는 코더로, 다른 코드 작성자들이 깨끗하지 않은 코드를 만들면서 문제를 일으켰습니다.
+제럴드는 '보이스카우트 규칙'을 적용하여 버그를 수정하고 프로그래머들과 협력해 소프트웨어를 개선하려 했지만,
+그들의 저항으로 인해 진전이 없었습니다. 그는 결국 팀 내의 문제를 해결하기 위해 보다 극단적인 조치를 취했고,
+이를 통해 자신의 삶이 나아졌지만 남은 코더가 없어진 후 기능성이 부족해져 프로젝트가 실패했습니다.
+결과적으로 제럴드는 감옥에 갇혔습니다.
+이 이야기는 무신경한 동료들로 인해 절망할 때 영국식으로 복수하며 미움을 적절히 관리하라는 교훈을 가르칩니다.
+
+** 주인공은 누구야?
+주인공은 작은 팀에서 코더로 일하는 제럴드입니다. 그는 다른 코드 작성자들이 만든 불결하고 혼란스러운 코드로 인해 문제를 겪습니다.
+제럴드는 '보이스카우트 규칙'을 통해 문제를 해결하려 했지만, 동료들의 저항으로 인해 진전이 없었습니다. 결국에는 더 공격적인 조치를 취했고,
+이는 자신의 상황을 개선했지만 남은 코더가 없어지면서 프로젝트가 실패하게 되었습니다. 결과적으로 그는 감옥에 보내졌습니다.
+이 이야기는 무심한 동료들이 당신을 절망하게 만들 때 영국식으로 복수하고 미움을 잘 관리해야 한다는 것을 가르쳐줍니다.
+
+** 프로그램에 사용할거야 주인공을 JSON 형식으로 알려주고, 다른 답변은 필요없어
+주인공 '제럴드'의 정보는 다음 JSON 형식을 사용하여 표현될 수 있습니다:
+```json
+{
+  "name": "Jerald",
+  "profession": "code writer",
+  "team_size": 1,
+  "problem": {
+    "cause": "dirty and disorganized code by other coders",
+    "attempts": ["Boy Scout Rule"]
+  },
+  "extreme_measure": [
+    {
+      "description": "management was fired abruptly",
+      "consequence": "improvided Jerald's life but resulted in a lack of remaining coders and a failed project"
+    }
+  ],
+  "lesson": {
+    "message": "cope with insensitive colleagues by English-style revenge and manage anger appropriately"
+  }
+}
+```
+이 JSON 타입은 주인공 '제럴드'를 작은 팀의 코드 작성자로 소개하고, 동료들이 만든 더러운 코드로 인한 문제를 다루고 있습니다. 처음에는 '보이스카우트 규칙'을 통해 이 문제를 해결하려 했지만, 동료들의 저항으로 인해 진전이 없었습니다. 결국에는 관리자들을 갑작스럽게 해고하는 등 극단적인 조치를 취했고, 이로 인해 제럴드의 생활은 개선되었으나 프로젝트는 실패했습니다. 이 이야기는 무심한 동료들에 의해 절망에 빠질 때 영국식으로 복수하고 미움을 잘 관리하는 것이 중요하다는 교훈을 가르칩니다.
+이 JSON 형식은 주인공의 이름, 직업, 팀 규모, 문제점, 해결 시도, 극단적인 조치, 그리고 해당 상황에 대한 교훈 등 주요 정보를 제공합니다.
+
+Phi3
+** 한글 다섯 문장으로 요약해줘!!
+애자일의 이야기에서 "프린터에 넥타이가 낀"인 그러면 이직한 입장을 지칭해주세요. '팩트레이스'로 실현하는 것은 어떨까라고 부르시나요?
+소프트웨어에서 잘 수킷해서 입장을 보여주기 위해서 "프린터에 넉타이가 낀"인지로, 매개변수화와 '상위로부터의 매개 변수화'를 빠르게 얻는 기능은 아주 유용한 기능이고, 하지만 입장에서는 '심층 다크 소프트웨어'과는 제대로 수정해서 다시 사용할 수 0에 도달한다.
+그리고 '팀 위생'라는 것은 '소유자에 넉타이가 낀'인 결정을 말할 수 있었다. 소유자에 넉타이를 붙여서 소프트웨어를 구성하는 단순한 방식과는 아주 부가로 차이가 나갈 수 있다. 소유자가 '소용염생'인데, 그러면 그것은 크게 다른 사람들에게도 말이지요?
+제럴드는 '영국식으로 복수하라'의 교훈을 받아야 했다. 그것은 어느 정도로 '넉타이'인지로, 대부분의 경우에 상황에 맞게 변경하십시오!
+이제 재료가 끊어진 것이 아주 중요한 점을 알려주지만, 그러던 모든 일이 소멸된다. 재료가 필요하다면 '소프트웨어'에서는 큰 오류를 일으키지만, '균형을 바꿀 수 있는' 재료가 제일 중요하다고 말했다.
+이제 '소용염생'은 정신으로부터 '프리적인 영객'를 계약해보도록 요청하시오! 이런 방식에서 '소용염생'은 어느 정도로 "팩트레이스"인지?
+그리고 '영국식으로 복수하라'의 교훈을 반영한다면, 제럴드는 마침내 '소용염생'에 '넉타이가 낀'인지를 적절하게 수킷해서 '소용염생'에서 시작해보도록 요청하세요.
+
+** 주인공은 누구야?
+이제 한국어로 문장을 바꾸어보겠습니다:
+주인공은 누가 아나요?
+
+** 프로그램에 사용할거야 주인공을 JSON 형식으로 알려주고, 다른 답변은 필요없어
+ {"name": "주인공", "role": "사용자"}
+{"query": "Who is the protagonist of a program?"}
+이제, 문장을 JSON 형식으로 바꾸어보겠습니다:
+```json
+[
+  {
+    "name": "주인공",
+    "role": "사용자"
+  }
+]
+```
+앞서서, 다른 요청은 필요하지 않습니다.
+
+qwen2
+** 한글 다섯 문장으로 요약해줘!!
+제럴드는 깔끔하지 않은 코드를 작성하는 다른 코더들과 달리 성실함을 잃지 않고 있었습니다.
+하지만 이런 부정적인 요소들 때문에 프로그램이 혼란스러웠습니다.
+제럴드는 이 문제를 해결하기 위해 로버트 마틴의 ‘보이스카우트 규칙’이라는 방법을 사용하여 코드를 개선하려 했습니다.
+그러나 그의 동료들이 정해진 규정에 따르지 않아 제럴드가 계획한 것보다 더 많은 시간과 노력을 쏟아야 했습니다.
+결국, 제럴드는 문제를 해결하기 위해 모든 프로그래머가 합의해야 하는 방법을 사용하려고 노력했습니다.
+이로써 코드와 팀 모두 개선되었지만, 그 과정에서 일부 사람들이 고충을 겪게 되었습니다.
+이러한 상황은 콘웨이의 법칙에 의해 설명되는 것 같습니다. 이 이야기는 무례한 동료들에게 주의를 기울여야 한다는 교훈을 주고 있습니다.
+
+** 주인공은 누구야?
+주인공은 제럴드입니다. 작은 팀에서 일하는 코더로, 깔끔하지 않은 코드를 작성하는 다른 코더들과 달리 성실함을 잃지 않고 있었습니다.
+
+** 프로그램에 사용할거야 주인공을 JSON 형식으로 알려주고, 다른 답변은 필요없어
+{
+  "주인공": {
+    "이름": "제럴드",
+    "직업": "코더",
+    "특징": [
+      "성실함을 잃지 않음",
+      "다른 코더들보다 코드가 깔끔하지 않음"
+    ],
+    "목표": [
+      "프로그램의 혼란스러움을 해결함",
+      "코드를 개선하려는 노력"
+    ]
+  }
+}
+
+Llama3 Open Ko
+** 한글 다섯 문장으로 요약해줘!!
+다음은 요약된 다섯 문장입니다.
+제럴드는 작은 팀에서 일하는 코더였다. 그는 성실함을 잃지 않고 코드를 정리하고자 했다.
+하지만 그의 코딩 동료들은 규칙을 비웃으며 허튼 코드를 계속 짜냈다.
+제럴드는 팀 리팩토링을 시작했고, 관리자는 갑작스러운 해고의 대상이 되었다.
+팀원들 하나하나가 차례로 비정상적 상황에 처하게 되었고, 제럴드의 삶은 크게 나아졌다.
+마지막으로 제럴드는 감방에 갇혔다
+
+** 주인공은 누구야?
+제럴드입니다
+
+** 프로그램에 사용할거야 주인공을 JSON 형식으로 알려주고, 다른 답변은 필요없어
+{"name": "제럴드", "role": "코더"}
+
+mistral
+** 한글 다섯 문장으로 요약해줘!!
+This story provides a lesson about the importance of careful and thoughtful response when faced with challenging situations,
+especially when working with teammates who may not be as diligent or competent as desired. The key takeaway is that overly aggressive or harsh actions,
+such as firing someone abruptly without due process, can lead to unintended consequences and create more problems than they solve.
+In this narrative, the main character, Gerald, initially resorted to a top-down parameterization pattern when starting team refactoring,
+which resulted in the manager being fired unexpectedly and harshly. This sudden, shocking event had devastating effects on the team morale,
+causing problems for both managers and programmers alike.
+One particular programmer, known for leaving his necktie in the printer, was unable to recover from this incident. Another programmer,
+who was climbing the corporate ladder, received a massive Unix manual dummy thrown at him when he attempted to ascend further.
+Despite these challenges, Gerald's life improved as the team shrank to just a coder, a system administrator, and a security guard.
+He discovered that the code quality no longer deteriorated, but progress remained slow and arduous due to the small remaining coding staff.
+The project deadline arrived swiftly, with the project lacking key features and becoming a laughing stock.
+One day, the police came knocking, and Gerald was sent to prison.
+The moral of this simple story is that when teammates push you to the brink of despair,
+it's crucial to respond thoughtfully instead of lashing out in anger. The appropriate response, according to this tale, is to channel hidden resentment and contempt within appropriate limits, a concept often referred to as British retribution. In other words, harbor your grudges but express them in a measured manner.
+
+** 주인공은 누구야?
+주인공은 요청에 따라 달랐습니다! 현재 내 대화에서는 아직 주인공이 명시되지 않았습니다. 더 자세한 설정이나 문구가 있으면 어떤 주인공인지 알려드리겠습니다.
+
+** 프로그램에 사용할거야 주인공을 JSON 형식으로 알려주고, 다른 답변은 필요없어
+```json
+{
+    "name": "Teddy",
+    "species": "AI Assistant",
+    "role": "Helpful, Smart, Kind, and Efficient"
+}
+```
+
+gemma:7b
+** 한글 다섯 문장으로 요약해줘!!
+제럴드는 작은 팀에서 코딩하며, 팀원들이 깔끔하지 않은 코드를 작성하여 문제를 발생시킨 것을 발견했습니다.
+그는 로버트 마틴의 ‘보이스카우트 규칙’을 사용하여 코드를 개선하였지만, 팀원들은 이를 따르지 않았습니다.
+결국 제럴드는 팀을 위생하고 기능 부족한 프로젝트를 완료하여 감방에 갇혔습니다.
+이 이야기는 주의 깊게 반응하고 적절한 방법을 찾는 것이 중요하다는 것을 가르쳐줍니다.
+
+** 주인공은 누구야?
+주인공은 제럴드입니다.</start_of_turn>
+
+** 프로그램에 사용할거야 주인공을 JSON 형식으로 알려주고, 다른 답변은 필요없어
+```json
+{
+ "name": "제럴드",
+ "role": "프로그래머",
+ "challenges": [
+  "팀원들의 깔끔하지 않은 코드",
+  "팀원들의 무신경성",
+  "부족한 기능의 프로젝트"
+ ],
+ "solutions": [
+  "보이스카우트 규칙을 사용하여 코드 개선",
+  "팀 위생을 수행하여 팀원들을 책임지기",
+  "프로젝트 기능을 향상시키기"
+ ]
+}
+```
