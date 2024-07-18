@@ -6,7 +6,7 @@ authors = ["Your Name <you@example.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.13"
 langchain = "^0.2.5"
 langgraph = "^0.1.6"
 ipywidgets = "^8.1.3"
@@ -20,6 +20,18 @@ langchain-openai = "^0.1.15"
 langserve = "^0.2.2"
 langchain-community = "^0.2.7"
 sse-starlette = "^2.1.2"
+streamlit = "^1.36.0"
+unstructured = {extras = ["pdf"], version = "^0.14.10"}
+pypdf = "^4.3.0"
+pdfminer-six = "20231228"
+pdfplumber = "0.11.0"
+sentence-transformers = "^3.0.1"
+faiss-cpu = "^1.8.0.post1"
+tavily-python = "^0.3.4"
+psycopg = {extras = ["binary"], version = "^3.2.1"}
+psycopg-pool = "^3.2.2"
+pymongo = "^4.8.0"
+motor = "^3.5.1"
 
 
 [build-system]

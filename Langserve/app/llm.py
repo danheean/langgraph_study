@@ -13,5 +13,5 @@ from langchain_core.prompts import ChatPromptTemplate
 #llm = ChatOllama(model="qwen2:latest")
 #llm = ChatOllama(model="phi3:latest")
 
-#llm = ChatOllama(model="gemma2:9b") // error
-llm = ChatOllama(model="gemma:7b")
+llm = ChatOllama(model="gemma2:latest")
+#llm = ChatOllama(model="gemma:7b")
