@@ -35,7 +35,13 @@ motor = "^3.5.1"
 redis = "^5.0.7"
 watchdog = "^4.0.1"
 seaborn = "^0.13.2"
+openpyxl = "^3.1.5"
+finance-datareader = "^0.9.93"
+plotly = "^5.22.0"
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]
